@@ -14,7 +14,7 @@
 
 **classroom** 02:43:52.06
 
-**classroom** Sampling Preset: Final ?
+**classroom** Sampling Preset: Final 05:14:16.15
 
 ## Asus GeForce GTX 1070 STRIX OC
 
