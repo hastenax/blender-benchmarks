@@ -22,6 +22,8 @@
 
 **pavillon_barcelone_v1.2** 06:05.06
 
+**pavillon_barcelone_v1.2** HDTVP 1080P preset 13:38.28
+
 ## Asus GeForce GTX 1070 STRIX OC
 
 ### Dataset
