@@ -16,6 +16,10 @@
 
 **classroom** Sampling Preset: Final 05:14:16.15
 
+## MSI GeForce GTX 1080 TI Duke 11G OC +99CC/399MC
+
+**BMW27_2**	Sampling Preset: Final 01:03.06
+
 ## Asus GeForce GTX 1070 STRIX OC
 
 ### Dataset
