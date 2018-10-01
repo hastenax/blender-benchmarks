@@ -20,6 +20,8 @@
 
 **BMW27_2**	Sampling Preset: Final 01:03.06
 
+**pavillon_barcelone_v1.2** 06:05.06
+
 ## Asus GeForce GTX 1070 STRIX OC
 
 ### Dataset
