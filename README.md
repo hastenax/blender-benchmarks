@@ -18,6 +18,8 @@
 
 ## MSI GeForce GTX 1080 TI Duke 11G OC +99CC/399MC
 
+**BMW27_2**	02:09.93
+
 **BMW27_2**	Sampling Preset: Final 01:03.06
 
 **pavillon_barcelone_v1.2** 06:05.06
