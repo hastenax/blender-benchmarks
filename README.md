@@ -52,6 +52,22 @@
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 18:14:47
 
+## 2 x Asus GeForce GTX 1070 STRIX OC +99CC/399MC using SLI bridge
+
+**BMW27_2**	?
+
+**BMW27_2**	Sampling Preset: Final ?
+
+**pavillon_barcelone_v1.2** ?
+
+**pavillon_barcelone_v1.2** HDTV 1080P preset 08:55.57
+
+**BMW27GE**	Cycles Render ?
+
+**classroom** ?
+
+**classroom** Sampling Preset: Final ?
+
 ### Dataset
 This dataset was built on top of datasets downloaded from https://www.blender.org/download/demo-files for gpu bechmarking purposes. All datasets were downloaded at 1 October, 2018. Blender 2.79b was used as a benchmark suite.
 
