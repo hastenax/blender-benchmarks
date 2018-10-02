@@ -42,7 +42,13 @@
 
 **classroom** Sampling Preset: Final 04:54:00.00
 
-## Asus GeForce GTX 1070 STRIX OC +99C/399MC
+## Asus GeForce GTX 1070 STRIX OC +99CC/399MC
+
+**BMW27_2**	02:45.59
+
+**BMW27_2**	Sampling Preset: Final 01:19:42
+
+**pavillon_barcelone_v1.2** 08:26:08
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 18:14:47
 
