@@ -28,6 +28,10 @@
 
 ## Asus GeForce GTX 1070 STRIX OC
 
+**BMW27_2**	02:55.08
+
+**BMW27_2**	Sampling Preset: Final 01:25.12
+
 **classroom** 02:33:59.00
 
 **classroom** Sampling Preset: Final 04:54:00.00
