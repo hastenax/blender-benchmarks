@@ -28,6 +28,8 @@
 
 ## Asus GeForce GTX 1070 STRIX OC
 
+**classroom** Sampling Preset: Final 04:54:00.00
+
 ### Dataset
 This dataset was built on top of datasets downloaded from https://www.blender.org/download/demo-files for gpu bechmarking purposes. All datasets were downloaded at 1 October, 2018. Blender 2.79b was used as a benchmark suite.
 
