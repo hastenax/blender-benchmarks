@@ -32,6 +32,8 @@
 
 **BMW27_2**	Sampling Preset: Final 01:25.12
 
+**pavillon_barcelone_v1.2** 08:58.91
+
 **classroom** 02:33:59.00
 
 **classroom** Sampling Preset: Final 04:54:00.00
