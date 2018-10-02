@@ -1,4 +1,10 @@
-# GPU Benchmarks
+# CPU and GPU Benchmarks
+
+## Intel® Core™ i7-8700K
+
+**BMW27_2**	05:14.59
+
+**BMW27_2**	Sampling Preset: Final 02:28.99
 
 ## MSI GeForce GTX 1080 TI Duke 11G OC
 
