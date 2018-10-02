@@ -8,6 +8,10 @@
 
 **pavillon_barcelone_v1.2** 15:31.39
 
+**classroom** 08:34.17
+
+**classroom** Sampling Preset: Final 33:25.89
+
 ## MSI GeForce GTX 1080 TI Duke 11G OC
 
 **BMW27_2**	02:18.73
