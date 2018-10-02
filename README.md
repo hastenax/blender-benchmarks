@@ -34,7 +34,7 @@
 
 **pavillon_barcelone_v1.2** 08:58.91
 
-**pavillon_barcelone_v1.2** HDTV 1080P preset 19:43:31
+**pavillon_barcelone_v1.2** HDTV 1080P preset 19:43.31
 
 **BMW27GE**	Cycles Render 02:41.60
 
@@ -46,11 +46,11 @@
 
 **BMW27_2**	02:45.59
 
-**BMW27_2**	Sampling Preset: Final 01:19:42
+**BMW27_2**	Sampling Preset: Final 01:19.42
 
-**pavillon_barcelone_v1.2** 08:26:08
+**pavillon_barcelone_v1.2** 08:26.08
 
-**pavillon_barcelone_v1.2** HDTV 1080P preset 18:14:47
+**pavillon_barcelone_v1.2** HDTV 1080P preset 18:14.47
 
 ## 2 x Asus GeForce GTX 1070 STRIX OC +99CC/399MC using SLI bridge
 
