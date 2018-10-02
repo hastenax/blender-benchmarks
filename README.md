@@ -66,7 +66,7 @@
 
 **classroom** 01:13:35.54
 
-**classroom** Sampling Preset: Final 02:25:00.00
+**classroom** Sampling Preset: Final 02:21:42.48
 
 ### Dataset
 This dataset was built on top of datasets downloaded from https://www.blender.org/download/demo-files for gpu bechmarking purposes. All datasets were downloaded at 1 October, 2018. Blender 2.79b was used as a benchmark suite.
