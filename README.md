@@ -6,6 +6,8 @@
 
 **BMW27_2**	Sampling Preset: Final 02:28.99
 
+**pavillon_barcelone_v1.2** 15:31.39
+
 ## MSI GeForce GTX 1080 TI Duke 11G OC
 
 **BMW27_2**	02:18.73
