@@ -36,6 +36,8 @@
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 19:43:31
 
+**BMW27GE**	Cycles Render 02:41.60
+
 **classroom** 02:33:59.00
 
 **classroom** Sampling Preset: Final 04:54:00.00
