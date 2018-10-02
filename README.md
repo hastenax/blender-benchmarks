@@ -58,7 +58,7 @@
 
 **BMW27_2**	Sampling Preset: Final ?
 
-**pavillon_barcelone_v1.2** ?
+**pavillon_barcelone_v1.2** 04:17.47
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 08:55.57
 
