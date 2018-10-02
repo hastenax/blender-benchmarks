@@ -8,7 +8,7 @@
 
 **pavillon_barcelone_v1.2** 06:34.53
 
-**pavillon_barcelone_v1.2** HDTVP 1080P preset 14:27.16
+**pavillon_barcelone_v1.2** HDTV 1080P preset 14:27.16
 
 **BMW27GE**	Cycles Render 02:18.32
 
@@ -24,7 +24,7 @@
 
 **pavillon_barcelone_v1.2** 06:05.06
 
-**pavillon_barcelone_v1.2** HDTVP 1080P preset 13:38.28
+**pavillon_barcelone_v1.2** HDTV 1080P preset 13:38.28
 
 ## Asus GeForce GTX 1070 STRIX OC
 
@@ -33,6 +33,8 @@
 **BMW27_2**	Sampling Preset: Final 01:25.12
 
 **pavillon_barcelone_v1.2** 08:58.91
+
+**pavillon_barcelone_v1.2** HDTV 1080P preset 19:43:31
 
 **classroom** 02:33:59.00
 
