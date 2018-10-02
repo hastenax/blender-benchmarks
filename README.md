@@ -64,7 +64,7 @@
 
 **BMW27GE**	Cycles Render 01:16.44
 
-**classroom** ?
+**classroom** 01:13:35.54
 
 **classroom** Sampling Preset: Final ?
 
