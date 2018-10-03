@@ -80,6 +80,8 @@
 
 **classroom** 01:13:35.54
 
+**classroom** Tile Size: 256x256 04:03.53
+
 **classroom** Sampling Preset: Final 02:21:00.35
 
 **classroom** Sampling Preset: Final, Tile Size: 256x256 07:33.94
