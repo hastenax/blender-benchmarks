@@ -82,6 +82,8 @@
 
 **classroom** Sampling Preset: Final 02:21:00.35
 
+**classroom** Sampling Preset: Final, Tile Size: 256x256 07:33.94
+
 ### Dataset
 This dataset was built on top of datasets downloaded from https://www.blender.org/download/demo-files for gpu bechmarking purposes. All datasets were downloaded at 1 October, 2018. Blender 2.79b was used as a benchmark suite.
 
