@@ -6,7 +6,9 @@
 
 **BMW27_2**	Sampling Preset: Final 02:28.99
 
-**pavillon_barcelone_v1.2** 15:31.39
+**pavillon_barcelone_v1.2** 09:56.66
+
+**pavillon_barcelone_v1.2** HDTV 1080P Preset 15:31.39
 
 **classroom** 08:34.17
 
