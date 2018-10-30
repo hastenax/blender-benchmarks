@@ -14,35 +14,19 @@
 
 **classroom** Sampling Preset: Final 33:25.89
 
-## MSI GeForce GTX 1080 TI Duke 11G OC
+## MSI GeForce GTX 1070 P104-100 MINER 4G
 
-**BMW27_2**	02:18.73
+**BMW27_2**	?
 
-**BMW27_2**	Sampling Preset: Final 01:07.40
+**BMW27_2**	Sampling Preset: Final ?
 
-**pavillon_barcelone_v1.2** 06:34.53
+**pavillon_barcelone_v1.2** ?
 
-**pavillon_barcelone_v1.2** HDTV 1080P preset 14:27.16
+**pavillon_barcelone_v1.2** HDTV 1080P Preset ?
 
-**BMW27GE**	Cycles Render 02:18.32
+**classroom** Tile Size: 256x256 06:48.92
 
-**classroom** Tile Size: 256x256 04:53.38
-
-**classroom** Sampling Preset: Final, Tile Size: 256x256 09:01.84
-
-## MSI GeForce GTX 1080 TI Duke 11G OC +99CC/399MC
-
-**BMW27_2**	02:09.93
-
-**BMW27_2**	Sampling Preset: Final 01:03.06
-
-**pavillon_barcelone_v1.2** 06:05.06
-
-**pavillon_barcelone_v1.2** HDTV 1080P preset 13:38.28
-
-**classroom** Tile Size: 256x256 04:36.07
-
-**classroom** Sampling Preset: Final, Tile Size: 256x256 08:32.30
+**classroom** Sampling Preset: Final, Tile Size: 256x256 12:48.50
 
 ## Asus GeForce GTX 1070 STRIX OC
 
@@ -87,6 +71,36 @@
 **BMW27GE**	Cycles Render 01:16.44
 
 **classroom** Sampling Preset: Final, Tile Size: 256x256 07:33.94
+
+## MSI GeForce GTX 1080 TI Duke 11G OC
+
+**BMW27_2**	02:18.73
+
+**BMW27_2**	Sampling Preset: Final 01:07.40
+
+**pavillon_barcelone_v1.2** 06:34.53
+
+**pavillon_barcelone_v1.2** HDTV 1080P preset 14:27.16
+
+**BMW27GE**	Cycles Render 02:18.32
+
+**classroom** Tile Size: 256x256 04:53.38
+
+**classroom** Sampling Preset: Final, Tile Size: 256x256 09:01.84
+
+## MSI GeForce GTX 1080 TI Duke 11G OC +99CC/399MC
+
+**BMW27_2**	02:09.93
+
+**BMW27_2**	Sampling Preset: Final 01:03.06
+
+**pavillon_barcelone_v1.2** 06:05.06
+
+**pavillon_barcelone_v1.2** HDTV 1080P preset 13:38.28
+
+**classroom** Tile Size: 256x256 04:36.07
+
+**classroom** Sampling Preset: Final, Tile Size: 256x256 08:32.30
 
 ## 2 x MSI GeForce GTX 1080 TI 11G +99CC/399MC using SLI bridge
 
