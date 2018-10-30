@@ -16,9 +16,9 @@
 
 ## MSI GeForce GTX 1070 P104-100 MINER 4G
 
-**BMW27_2**	?
+**BMW27_2**	02:43.62
 
-**BMW27_2**	Sampling Preset: Final ?
+**BMW27_2**	Sampling Preset: Final 01:18.86
 
 **pavillon_barcelone_v1.2** ?
 
