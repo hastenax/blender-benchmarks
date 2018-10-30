@@ -20,9 +20,9 @@
 
 **BMW27_2**	Sampling Preset: Final 01:18.86
 
-**pavillon_barcelone_v1.2** ?
+**pavillon_barcelone_v1.2** 08:00.26
 
-**pavillon_barcelone_v1.2** HDTV 1080P Preset ?
+**pavillon_barcelone_v1.2** HDTV 1080P Preset 17:40.92
 
 **classroom** Tile Size: 256x256 06:48.92
 
