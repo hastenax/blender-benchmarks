@@ -82,8 +82,6 @@
 
 **BMW27GE**	Cycles Render 01:16.44
 
-**classroom** Sampling Preset: Final 02:21:00.35
-
 **classroom** Sampling Preset: Final, Tile Size: 256x256 07:33.94
 
 ## 2 x MSI GeForce GTX 1080 TI 11G +99CC/399MC using SLI bridge
