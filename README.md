@@ -56,9 +56,9 @@
 
 **BMW27GE**	Cycles Render 02:41.60
 
-**classroom** ?
+**classroom** Tile Size: 256x256 ?
 
-**classroom** Sampling Preset: Final ?
+**classroom** Sampling Preset: Final, Tile Size: 256x256 ?
 
 ## Asus GeForce GTX 1070 STRIX OC +99CC/399MC
 
@@ -69,6 +69,10 @@
 **pavillon_barcelone_v1.2** 08:26.08
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 18:14.47
+
+**classroom** Tile Size: 256x256 ?
+
+**classroom** Sampling Preset: Final, Tile Size: 256x256 ?
 
 ## 2 x Asus GeForce GTX 1070 STRIX OC +99CC/399MC using SLI bridge
 
