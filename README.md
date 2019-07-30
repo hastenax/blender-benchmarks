@@ -124,7 +124,7 @@
 
 **pavillon_barcelone_v1.2** 04:43.70
 
-**pavillon_barcelone_v1.2** HDTV 1080P preset ?
+**pavillon_barcelone_v1.2** HDTV 1080P preset 09:57.98
 
 **BMW27GE**	Cycles Render ?
 
