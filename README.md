@@ -128,15 +128,19 @@
 
 **BMW27GE**	Cycles Render ?
 
-**classroom** Tile Size: 256x256 ?
+**classroom** Tile Size: 256x256 02:33.60
 
-**classroom** Sampling Preset: Final, Tile Size: 256x256 ?
+**classroom** Sampling Preset: Final, Tile Size: 256x256 04:20.59
 
 ## Gigabyte GeForce RTX 2080 TI Turbo 11G +140СС/299MC
 
 **pavillon_barcelone_v1.2** 04:20.99
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 09:23.15
+
+**classroom** Tile Size: 256x256 02:23.57
+
+**classroom** Sampling Preset: Final, Tile Size: 256x256 04:04.50
 
 ### Dataset
 This dataset was built on top of datasets downloaded from https://www.blender.org/download/demo-files for gpu bechmarking purposes. All datasets were downloaded at 1 October, 2018. Blender 2.79b was used as a benchmark suite.
