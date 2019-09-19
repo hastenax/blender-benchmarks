@@ -154,9 +154,9 @@
 
 **BMW27GE**	Cycles Render ?
 
-**classroom** Tile Size: 256x256 ?
+**classroom** Tile Size: 256x256 00:41.00
 
-**classroom** Sampling Preset: Final, Tile Size: 256x256 ?
+**classroom** Sampling Preset: Final, Tile Size: 256x256 01:06.40
 
 ### Dataset
 This dataset was built on top of datasets downloaded from https://www.blender.org/download/demo-files for gpu bechmarking purposes. All datasets were downloaded at 1 October, 2018. Blender 2.79b was used as a benchmark suite.
