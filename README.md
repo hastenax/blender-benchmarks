@@ -152,7 +152,7 @@
 
 **pavillon_barcelone_v1.2** HDTV 1080P preset 02:12.48
 
-**BMW27GE**	Cycles Render ?
+**BMW27GE**	Cycles Render 0:26.00
 
 **classroom** Tile Size: 256x256 00:41.00
 
