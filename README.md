@@ -144,7 +144,7 @@
 
 ## 4 x Gigabyte GeForce RTX 2080 TI Turbo 11G
 
-**BMW27_2**	?
+**BMW27_2**	0:15.29
 
 **BMW27_2**	Sampling Preset: Final ?
 
